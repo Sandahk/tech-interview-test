@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings (if you use VSCode)
+.vscode/
+
+# OS files
+.DS_Store
+
+# Jupyter notebooks (optional)
+*.ipynb_checkpoints
+
+# Node.js stuff (if you have a frontend)
+node_modules/
